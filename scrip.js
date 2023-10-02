@@ -9,7 +9,7 @@ gsap.to("#nav", {
         start: "top -10%",
         end: "bottom -10%",
         scrub: 5,
-        //  //  // markers: true,
+        //  //  
     }
 })
 
@@ -29,7 +29,7 @@ gsap.to('#main', {
         start: "top 0%",
         end: 'bottom 0%',
         scrub: 5,
-        //  // markers: true,
+        //  
     }
 })
 
@@ -48,7 +48,7 @@ gsap.from('#lefti', {
         // start: 'top 0%',
         end: 'bottom 110%',
         scrub: 5,
-        // markers: true,
+        
     }
 })
 gsap.from('.card1', {
@@ -65,7 +65,7 @@ gsap.from('.card1', {
         end: 'bottom 110%',
 
         scrub: 5,
-        //  // markers: true,
+        //  
     }
 })
 gsap.from('#righti', {
@@ -82,7 +82,7 @@ gsap.from('#righti', {
         end: 'bottom 110%',
 
         scrub: 5,
-        //  // markers: true,
+        //  
     }
 })
 gsap.from('.card3', {
@@ -99,7 +99,7 @@ gsap.from('.card3', {
         end: 'bottom 110%',
 
         scrub: 5,
-        //  // markers: true,
+        //  
     }
 })
 gsap.from('#about-us', {
@@ -114,7 +114,7 @@ gsap.from('#about-us', {
         end: 'bottom 110%',
 
         scrub: 5,
-        //  // markers: true,
+        //  
     }
 })
 gsap.from('.card2', {
@@ -129,7 +129,7 @@ gsap.from('.card2', {
         end: 'bottom 110%',
 
         scrub: 5,
-        //  // markers: true,
+        //  
     }
 })
 
